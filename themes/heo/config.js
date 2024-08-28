@@ -7,7 +7,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://www。lanni.us.kg' },
+    { title: '欢迎来到我的博客', url: 'https://www.lanni.us.kg' },
     { title: 'BingAI体验一下？', url: 'https://ai.lanni.us.kg' }
   ],
 
@@ -22,7 +22,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'LANNI',
   HEO_HERO_TITLE_4: '正在更新...',
   HEO_HERO_TITLE_5: '新版博客全新上线',
-  HEO_HERO_TITLE_LINK: 'https://blog.huabofeng.eu.org',
+  HEO_HERO_TITLE_LINK: 'https://blog.lanni.us.kg',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
