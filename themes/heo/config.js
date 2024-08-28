@@ -21,8 +21,8 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与科技技术',
   HEO_HERO_TITLE_3: 'LANNI',
   HEO_HERO_TITLE_4: '正在更新...',
-  HEO_HERO_TITLE_5: '新版博客全新上线',
-  HEO_HERO_TITLE_LINK: 'https://blog.lanni.us.kg',
+  HEO_HERO_TITLE_5: '新版主页全新上线',
+  HEO_HERO_TITLE_LINK: 'https://www.lanni.us.kg',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
